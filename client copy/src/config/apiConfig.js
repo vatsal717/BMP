@@ -3,7 +3,7 @@
 
 const config = {
   // Backend URL - can be overridden by environment variables
-  BACKEND_URL:  "http://localhost:8080",
+  BACKEND_URL:  "https://online-scholarship-portal.onrender.com",
   
   // API Endpoints
   API_ENDPOINTS: {
